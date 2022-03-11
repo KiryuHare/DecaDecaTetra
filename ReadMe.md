@@ -1,9 +1,12 @@
 # DecaDecaTetra
+https://play.google.com/store/apps/details?id=com.HareArts.BlockStack
 
-## 省略されたアセット
-Plugins/UniRx/
-Plugins/UniTask/
-GoogleMobileAds/
-Fonts/Dot Gothic 16-Regular
-TextMesh Pro/
-InputSystem
+[![蜍慕判](http://img.youtube.com/vi/NReCfgX2zzI/0.jpg)](https://www.youtube.com/watch?v=NReCfgX2zzI)
+## 逵∫払縺輔ｌ縺溘い繧ｻ繝�繝�
+
+- Plugins/UniRx/
+- Plugins/UniTask/
+- GoogleMobileAds/
+- Fonts/Dot Gothic 16-Regular
+- TextMesh Pro/
+- InputSystem
